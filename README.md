@@ -5,6 +5,8 @@ tags:
 - finance
 - decision making
 - opportunity cost
+status: not started
+twitter: https://twitter.com/relativeread
 ---
 
 ## Algo 2-2020
